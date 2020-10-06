@@ -1,4 +1,4 @@
-# metadata manager
+# Custom Metadata Manager
 
 Current problem with custom metadata is that Salesforce allow to export metadata using Dataloader or Workbench etc but if you already have metadata available in CSV file and want to deploy metadata records to your org than Salesforce has an issue.
 
